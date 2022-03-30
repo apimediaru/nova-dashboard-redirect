@@ -1,6 +1,6 @@
 # Nova Dashboard Redirect
 
-Simple package that allows to redirect user to any other route instead of homepage.
+Simple package that allows to redirect nova user to any other route instead of homepage.
 
 ## Installation
 
