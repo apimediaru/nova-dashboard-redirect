@@ -34,5 +34,5 @@ Example of array route configuration:
 
 Exaple of callable:
 ```
-'redirect' => '\SomeNamespace\SomeClass:getRouteConfiguration',
+'redirect' => '\SomeNamespace\SomeClass::getRouteConfiguration',
 ```
